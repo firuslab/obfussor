@@ -18,7 +18,7 @@
     "@codemirror/language": "^6.11.3",
     "@codemirror/state": "^6.5.2",
     "@codemirror/theme-one-dark": "^6.1.3",
-    "@codemirror/view": "^6.38.6",
+    "@codemirror/view": "^6.38.8",
     "@tauri-apps/api": "^2",
     "@tauri-apps/plugin-dialog": "~2.4.2",
     "@tauri-apps/plugin-opener": "^2",
@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.6",
-    "@sveltejs/kit": "^2.48.4",
+    "@sveltejs/kit": "^2.49.0",
     "@sveltejs/vite-plugin-svelte": "^5.0.0",
     "@tauri-apps/cli": "^2",
     "svelte": "^5.43.14",
